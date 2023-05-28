@@ -160,7 +160,6 @@ class TemplateJsonldTemplateRead:
             thumbnail=thumbnail,
             created_at=created_at,
             updated_at=updated_at,
-            id=id,
         )
 
         template_jsonld_template_read.additional_properties = d

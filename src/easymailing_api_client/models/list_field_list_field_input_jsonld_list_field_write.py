@@ -136,7 +136,6 @@ class ListFieldListFieldInputJsonldListFieldWrite:
             template_tag=template_tag,
             public=public,
             required=required,
-            type=type,
         )
 
         list_field_list_field_input_jsonld_list_field_write.additional_properties = d

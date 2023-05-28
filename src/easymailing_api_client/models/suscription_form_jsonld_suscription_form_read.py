@@ -214,7 +214,6 @@ class SuscriptionFormJsonldSuscriptionFormRead:
             url=url,
             domain=domain,
             title=title,
-            type=type,
             double_opt_in=double_opt_in,
             enable_welcome_email=enable_welcome_email,
             active=active,
